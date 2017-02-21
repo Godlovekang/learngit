@@ -1,2 +1,2 @@
-git is a cersion control system
+git is a distributed cersion control system
 git is free software
